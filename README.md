@@ -1,7 +1,5 @@
 ### Boston Security Conference ###
 
-Website for the Boston Security Conference
-
 ![Screenshot](https://raw.github.com/akshatpradhan/boston-security-conference/master/boston-security-conference.png)
 
 #### License ####
